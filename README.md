@@ -3,8 +3,10 @@ TwitterBots
 
 These are some twitter bots that I've written. 
 
-@InsightfulBot -- http://twitter.com/insightfulbot -- Tweets lovely quotes at people. 
+@InsightfulBot -- Tweets lovely quotes at people. 
 
-@TheGoldPotato -- http://twitter.com/thegoldpotato -- Tweets random sentences. 
+@TheGoldPotato -- Tweets random sentences. 
 
-@whatisbot -- http://twitter.com/whatisbot -- uses wolfram alpha APIs to answer questions asked to it
+@whatisbot -- uses wolfram alpha APIs to answer questions asked to it
+
+I no longer have control over TheGoldPotato or whatisbot. I no longer update or have access to InsightfulBot, but it still exists.
